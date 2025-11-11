@@ -8,7 +8,7 @@
 
 ### 1. What is matter?
 
-When we were children, we were often taught that matter is made of tiny, solid “balls”—atoms, and inside them, even smaller balls called protons, neutrons, and electrons. This picture is intuitive, but not quite true.
+When we were children, we were often taught that matter is made of tiny, solid “balls” (atoms), and inside them, even smaller balls called protons, neutrons, and electrons. This picture is intuitive, but not quite true.
 
 In modern physics, especially in quantum field theory (QFT), matter is not made of little balls.
 Instead:
