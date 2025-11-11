@@ -1,4 +1,4 @@
-## ✨ Everything Is a Field
+## ✨ Story 1: Everything Is a Field
 
 ### A gentle introduction to matter, quarks, and the hidden structure of reality
 
