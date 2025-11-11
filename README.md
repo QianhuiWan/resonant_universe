@@ -11,7 +11,7 @@ This project explores the possibility that reality is fundamentally wave-based, 
 - What is consciousness in a universe made of strings?
 - How do ancient philosophies align with modern physical theories?
 
-## 🧩 Topics Covered
+## 🧩 Topics covered
 - String theory & vibrational ontology
 - Wave-based models of reality
 - Quantum mind & consciousness
