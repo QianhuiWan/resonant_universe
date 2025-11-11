@@ -160,6 +160,12 @@ Reality is a symphony of fields, and we are all part of the music.
 **References**, in case you’re interested in further reading:
 - Angeler DG. Biological systems - "Symphonies of Life": Reviving Friedrich Cramer's general resonance theory. Bioessays. 2023 Nov;45(11):e2300113. doi: 10.1002/bies.202300113. Epub 2023 Sep 11. PMID: 37694600.
 
+### ☕ Buy me a coffee
+If you enjoy my stories, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/qianhui" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200">
+</a>
 
 
 
