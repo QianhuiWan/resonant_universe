@@ -3,8 +3,8 @@
 A gentle introduction to matter, quarks, and the hidden structure of reality
 
 > [!NOTE]
-> All matter exists in a field.
-> Everything you touch, see, and feel—every atom of your body—is nothing more than a vibration of invisible fields.
+> All matter exists in a field.  
+> Everything you touch, see, and feel, every atom of your body, is nothing more than a vibration of invisible fields.
 
 1. What is Matter?
 
