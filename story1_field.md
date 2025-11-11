@@ -156,3 +156,12 @@ Modern physics removes the illusion of solidity and replaces it with something e
 
 Reality is a symphony of fields, and we are all part of the music.
 
+Reference just in case you are interested in extended reading:
+
+Angeler DG. Biological systems - "Symphonies of Life": Reviving Friedrich Cramer's general resonance theory. Bioessays. 2023 Nov;45(11):e2300113. doi: 10.1002/bies.202300113. Epub 2023 Sep 11. PMID: 37694600.
+
+
+
+
+
+
