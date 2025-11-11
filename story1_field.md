@@ -6,7 +6,7 @@
 > All matter exists in a field.  
 > Everything you touch, see, and feel, every atom of your body, is nothing more than a vibration of invisible fields.
 
-### 1. What is Matter?
+### 1. What is matter?
 
 When we were children, we were often taught that matter is made of tiny, solid “balls”—atoms, and inside them, even smaller balls called protons, neutrons, and electrons. This picture is intuitive, but not quite true.
 
@@ -27,7 +27,7 @@ Instead:
 
 - You are made of waves, stable, incredibly organized waves.
 
-### 2. Quarks and the Fields Beneath Them
+### 2. Quarks and the fields beneath them
 
 Quarks are the building blocks of protons and neutrons, which then form atoms. But quarks themselves are not objects, they are excitations in quark fields.
 
@@ -44,7 +44,7 @@ This system of quark + gluon fields is called quantum chromodynamics (QCD).
 
 A proton is therefore not a tiny marble. It is a storm of swirling fields, constantly exchanging gluons, fluctuating in shape, mass, and energy. Even “solid” things are built from a buzzing storm.
 
-### 3. A Simple Analogy: The Ocean and Waves 🌊
+### 3. A simple analogy: the ocean and waves 🌊
 
 If all this sounds abstract, here’s an intuitive way to understand it:
 
@@ -56,7 +56,7 @@ If all this sounds abstract, here’s an intuitive way to understand it:
 
 Even when space looks empty, the “ocean” of fields is still there, quiet, but full of potential.
 
-### 4. Why Fields Explain Everything Better
+### 4. Why fields explain everything better
 
 Fields unify the world in a way that the old “ball” model never could.
 
@@ -71,7 +71,7 @@ Through the Higgs field, certain vibrations slow down, this is what we call mass
 ✅ 4. Fields explain why particles appear “identical”. 
 For example, every electron in the universe is the same because every electron is the same field, oscillating in the same pattern!!!
 
-### 5. What Is a Field, Really?
+### 5. What is a field, really?
 
 A field is not a physical substance. You cannot hold it or see it. A field is more like:
 
@@ -85,7 +85,7 @@ The most fundamental layer we know of:
 + Where there is space, there is a field.
 + Where there is vibration, there is matter.
 
-### 6. “Empty” Space Is Not Empty
+### 6. “Empty” space is not empty
 
 Quantum fields never completely rest. Even in total vacuum:
 
@@ -99,7 +99,7 @@ This is called quantum vacuum fluctuation, and it is essential for the stability
 
 Though invisible, the tiny quantum jitters of the vacuum have real effects: they subtly shift atomic energy levels, pull metal plates together through the Casimir effect, turn virtual particles into real ones in intense fields, and when the universe was still young—planted the random seeds from which galaxies eventually grew. The universe is never truly still.
 
-### 7. Why Quarks Matter for Everything
+### 7. Why quarks matter for everything
 
 Quarks, though tiny, shape nearly everything in the visible universe. Without quarks, no protons or neutrons -> Without protons/neutrons, no atoms -> Without atoms, no chemistry -> Without chemistry, no stars, planets, or life
 
@@ -110,7 +110,7 @@ Quarks themselves contribute only a tiny fraction of the mass of the universe. M
 Einstein was right:
 E = mc² is everywhere inside you.
 
-### 8. A Philosophical View: You Are a Pattern
+### 8. A philosophical view: you are a pattern
 
 If matter is just fields, then what are you?
 
@@ -129,9 +129,9 @@ It reveals that identity is not about the pieces, it is about the pattern.
 
 Fun question: if we put you in a mould-like a spoon, outside the field, could you stay there forever?
 
-### 9. Bringing It Together
+### 9. Bringing it together
 
-If we summarize everything (take home messages 🤪):
+If we summarize everything (take home messages 🤪):  
 ✅ The universe is made of fields.  
 ✅ Particles are vibrations of those fields.  
 ✅ Quarks and gluons form the heart of atoms.  
