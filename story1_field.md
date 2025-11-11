@@ -52,7 +52,7 @@ If all this sounds abstract, here’s an intuitive way to understand it:
 - A wave on the surface = a particle
 - The wave cannot exist without the ocean
 - The ocean exists even without the wave
-- Particles are like waves: **Temporary patterns on something deeper and continuous.**
+- Particles are like waves: **temporary patterns on something deeper and continuous.**
 
 Even when space looks empty, the “ocean” of fields is still there, quiet, but full of potential.
 
