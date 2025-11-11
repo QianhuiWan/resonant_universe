@@ -22,3 +22,13 @@ This project explores the possibility that reality is fundamentally wave-based, 
 - Diagrams and intuitive explanations
 - A blog-style write-up of "10 Hypotheses of Reality"
 - Sci-fi short stories based on the model
+
+### ☕ Buy me a coffee
+If you enjoy my blog or code, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/qianhui" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200">
+</a>
+
+
+
