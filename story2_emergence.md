@@ -1,7 +1,7 @@
 ## ✨ Emergence shapes complexity
 A story about how the universe builds patterns greater than particles
 
-✨ Introduction
+### Introduction
 
 In the previous blog, we explored the idea that matter itself is a vibration of fields — waves that gather, interact, and stabilize into what we call “particles.”
 But once these waves assemble the building blocks of physics, a deeper mystery immediately appears:
