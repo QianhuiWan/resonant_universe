@@ -1,5 +1,5 @@
 ## ✨ Emergence shapes complexity
-A story about how the universe builds patterns greater than particles
+### A story about how the universe builds patterns greater than particles
 
 - **Introduction**
 
@@ -8,7 +8,7 @@ But once these waves assemble the building blocks of physics, a deeper mystery i
 **How does a universe built from simple rules create something as intricate as life, mind, and society?**
 This is where the concept of emergence enters the story — the hidden architect behind every layer of complexity.
 
-1. What is emergence?
+## 1. What is emergence?
 
 Emergence describes a phenomenon in which new patterns or behaviors arise when many simple components interact.
 These new patterns cannot be predicted simply by studying the parts alone.
